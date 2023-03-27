@@ -11,7 +11,7 @@ EditableTableTask1::EditableTableTask1(QWidget *parent)
     // Инициализируем базу данных
     if (!InitDatabase())
     {
-        QMessageBox::critical(this, "Ошибка загрузки базы данных", "Проверьте целелостность базы данных!");
+        QMessageBox::critical(this, "Database loading error", "Check the integrity of the database!");
     }
     
     // Инициализируем основной слой
