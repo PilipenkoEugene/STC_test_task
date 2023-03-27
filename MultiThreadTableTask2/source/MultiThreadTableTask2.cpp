@@ -1,4 +1,4 @@
-#include "MultiThreadTableTask2.h"
+#include "../header/MultiThreadTableTask2.h"
 //-----------------------------------------------------------------------------------------
 
 MultiThreadTableTask2::MultiThreadTableTask2(QWidget* parent)

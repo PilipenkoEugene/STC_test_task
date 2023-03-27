@@ -1,4 +1,4 @@
-#include "MultiThreadTableTask2.h"
+#include "header/MultiThreadTableTask2.h"
 #include <QtWidgets/QApplication>
 //-----------------------------------------------------------------------------------------
 

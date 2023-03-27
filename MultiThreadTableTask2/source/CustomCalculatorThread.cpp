@@ -1,4 +1,4 @@
-#include "CustomCalculatorThread.h"
+#include "../header/CustomCalculatorThread.h"
 //-----------------------------------------------------------------------------------------
 
 CustomCalculatorThread::CustomCalculatorThread(int num, QProgressBar* indicator, QObject* parent)
