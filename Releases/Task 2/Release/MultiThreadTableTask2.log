@@ -1,0 +1,13 @@
+﻿  Reading Qt configuration (C:/Qt/5.15.2/msvc2019_64/bin/qmake)
+  uic header\MultiThreadTableTask2.ui
+  rcc header\MultiThreadTableTask2.qrc
+  moc header\MultiThreadTableTask2.h
+  moc header\CustomCalculatorThread.h
+   RCC: Warning: No resources in 'C:\Users\Pilipenko Eugene\Desktop\╨б╨в╨ж ╨в╨Ч\STC_test_task\MultiThreadTableTask2\header\MultiThreadTableTask2.qrc'.
+  CustomCalculatorThread.cpp
+  MultiThreadTableTask2.cpp
+  main.cpp
+  qrc_MultiThreadTableTask2.cpp
+  moc_MultiThreadTableTask2.cpp
+  moc_CustomCalculatorThread.cpp
+  MultiThreadTableTask2.vcxproj -> C:\Users\Pilipenko Eugene\Desktop\СТЦ ТЗ\STC_test_task\MultiThreadTableTask2\x64\Release\MultiThreadTableTask2.exe

@@ -1,0 +1,3 @@
+﻿  EditableTableTask1.cpp
+  Header <QtSql/qsql.h> is deprecated. Please include <QtSql/qtsqlglobal.h> instead.
+  EditableTableTask1.vcxproj -> C:\Users\Pilipenko Eugene\Desktop\СТЦ ТЗ\STC_test_task\EditableTableTask1\x64\Release\EditableTableTask1.exe
