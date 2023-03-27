@@ -1,10 +1,13 @@
-#include "EditableTableTask1.h"
-#include "MainTableCreator.h"
+#include "../header/EditableTableTask1.h"
+#include "../header/MainTableCreator.h"
 //-------------------------------------------------------------------
 
 EditableTableTask1::EditableTableTask1(QWidget *parent)
     : QMainWindow(parent)
 {
+    this->setMinimumHeight(700);
+    this->setMinimumWidth(900);
+
     // Инициализируем базу данных
     if (!InitDatabase())
     {

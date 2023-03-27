@@ -1,5 +1,5 @@
-#include "MainTableCreator.h"
-#include "EntryDataWindow.h"
+#include "../header/MainTableCreator.h"
+#include "../header/EntryDataWindow.h"
 //-------------------------------------------------------------------
 
 MainTableCreator::MainTableCreator(QWidget* parent)

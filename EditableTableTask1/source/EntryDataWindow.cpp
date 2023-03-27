@@ -1,4 +1,4 @@
-#include "EntryDataWindow.h"
+#include "../header/EntryDataWindow.h"
 //-------------------------------------------------------------------
 
 EntryDataWindow::EntryDataWindow(QWidget* parent)

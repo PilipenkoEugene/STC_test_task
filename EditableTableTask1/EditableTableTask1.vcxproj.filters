@@ -23,16 +23,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="EditableTableTask1.qrc">
+    <QtRcc Include="source\EditableTableTask1.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
-    <QtUic Include="EditableTableTask1.ui">
+    <QtUic Include="source\EditableTableTask1.ui">
       <Filter>Form Files</Filter>
     </QtUic>
-    <QtMoc Include="EditableTableTask1.h">
+    <QtMoc Include="header\EditableTableTask1.h">
       <Filter>Header Files</Filter>
     </QtMoc>
-    <ClCompile Include="EditableTableTask1.cpp">
+    <ClCompile Include="source\EditableTableTask1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -40,18 +40,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MainTableCreator.cpp">
+    <ClCompile Include="source\MainTableCreator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="EntryDataWindow.cpp">
+    <ClCompile Include="source\EntryDataWindow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <QtMoc Include="MainTableCreator.h">
+    <QtMoc Include="header\MainTableCreator.h">
       <Filter>Header Files</Filter>
     </QtMoc>
-    <QtMoc Include="EntryDataWindow.h">
+    <QtMoc Include="header\EntryDataWindow.h">
       <Filter>Header Files</Filter>
     </QtMoc>
   </ItemGroup>

@@ -1,4 +1,4 @@
-#include "EditableTableTask1.h"
+#include "header/EditableTableTask1.h"
 #include <QtWidgets/QApplication>
 //-------------------------------------------------------------------
 
